@@ -1,0 +1,1 @@
+int e=input.length()-1;

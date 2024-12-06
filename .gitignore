@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+Desktop.ini
+NTUSER.DAT*
+
+# Unnecessary directories
+AppData/
+.cache/
+.config/
+.ipython/
+.jupyter/
+Music/
