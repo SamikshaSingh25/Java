@@ -1,1 +1,1 @@
-int e=input.length()-1;
+null

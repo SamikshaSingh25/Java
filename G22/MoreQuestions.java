@@ -96,7 +96,7 @@
 //---------------------------------------------------------------------------------------------------------------------
 //reverse only letter/words..eg: abc123def45gh  -> cba123feg45hg
 
-
+/* 
 import java.util.Scanner;
 import java.lang.*;
 
@@ -117,3 +117,4 @@ public class MoreQuestions {
         
     } 
 }
+    */
